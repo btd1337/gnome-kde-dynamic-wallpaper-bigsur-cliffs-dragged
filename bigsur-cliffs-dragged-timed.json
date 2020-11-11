@@ -1,0 +1,51 @@
+{
+   "KPlugin": {
+          "Authors": [
+              {
+                  "Email": "christophe.lavie@laposte.net",
+                  "Name": "Christophe LAVIE"
+              }
+          ],
+          "Id": "bigsur-cliffs-dragged-timed",
+          "License": "LGPLv3",
+          "Name": "Bigsur Cliffs Dragged Timed Dynamic Wallpaper"
+   },
+   "Wallpaper": {
+     "Preview": "bigsur-cliffs-dragged_dynamic-0600.jpg",
+     "Type": "timed",    
+     "MetaData": [    
+      {
+		"Time": 0,
+        "FileName": "bigsur-cliffs-dragged_dynamic-0000.jpg"
+      },
+      {
+		"Time": 0.125,
+        "FileName": "bigsur-cliffs-dragged_dynamic-0300.jpg"
+      },
+      {
+		"Time": 0.250,
+        "FileName": "bigsur-cliffs-dragged_dynamic-0600.jpg"
+      },
+      {
+		"Time": 0.375,
+        "FileName": "bigsur-cliffs-dragged_dynamic-0900.jpg"
+      },
+      {
+		"Time": 0.500,
+        "FileName": "bigsur-cliffs-dragged_dynamic-1200.jpg"
+      },
+      {
+		"Time": 0.625,
+        "FileName": "bigsur-cliffs-dragged_dynamic-1500.jpg"
+      },
+      {
+		"Time": 0.750,
+        "FileName": "bigsur-cliffs-dragged_dynamic-1800.jpg"
+      },
+      {
+		"Time": 0.875,
+        "FileName": "bigsur-cliffs-dragged_dynamic-2100.jpg"
+      }
+    ]
+  }
+}
